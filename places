@@ -1,0 +1,21 @@
+;;; -*- coding: utf-8 -*-
+(("/home/pawel/Private/Projekty/Erlang/rotor_elixir/apps/lcdproc/lib/lcdproc.ex" . 1124)
+ ("/home/pawel/Private/Projekty/Erlang/rotor_elixir/apps/lcdproc/test/lcdproc_test.exs" . 116)
+ ("/home/pawel/Private/Projekty/Erlang/rotor_elixir/config/config.exs" . 137)
+ ("/home/pawel/Private/Projekty/Erlang/rotor_elixir/apps/lcdproc/mix.exs" . 418)
+ ("/home/pawel/Private/Projekty/Erlang/rotor_elixir/mix.exs" . 605)
+ ("/home/pawel/.emacs.d/init.el" . 1832)
+ ("/home/pawel/Private/Projekty/Erlang/rotor_elixir/"
+  (dired-filename . "/home/pawel/Private/Projekty/Erlang/rotor_elixir/apps"))
+ ("/home/pawel/Private/Projekty/Erlang/rotor_elixir/apps/"
+  (dired-filename . "/home/pawel/Private/Projekty/Erlang/rotor_elixir/apps/lcdproc"))
+ ("/home/pawel/Private/Projekty/Erlang/rotor_elixir/apps/lcdproc/lib/"
+  (dired-filename . "/home/pawel/Private/Projekty/Erlang/rotor_elixir/apps/lcdproc/lib/lcdproc.ex"))
+ ("/home/pawel/Private/Projekty/Erlang/rotor_elixir/apps/lcdproc/" . 544)
+ ("/home/pawel/.emacs.d/elpa/rainbow-delimiters-2.1.3/rainbow-delimiters-autoloads.el" . 830)
+ ("/home/pawel/.emacs.d/elpa/alchemist-1.8.0/alchemist-autoloads.el" . 3073)
+ ("/home/pawel/.emacs.d/elpa/elixir-mode-20160511.2327/elixir-mode-autoloads.el" . 1652)
+ ("/home/pawel/.emacs.d/elpa/dash-20160510.1127/dash-autoloads.el" . 222)
+ ("/home/pawel/.emacs.d/elpa/company-20160514.1750/company-autoloads.el" . 8770)
+ ("/home/pawel/.emacs.d/elpa/pkg-info-20150517.443/pkg-info-autoloads.el" . 3756)
+ ("/home/pawel/.emacs.d/elpa/epl-20150517.433/epl-autoloads.el" . 220))
