@@ -44,6 +44,7 @@
 (global-linum-mode 1)
 
 (add-hook 'elixir-mode-hook 'alchemist-mode)
+(add-hook 'erlang-mode-hook 'edts-mode)
 ;(add-hook 'elixir-mode-hook 'rainbow-delimiters-mode)
 (add-hook 'prog-mode-hook 'rainbow-delimiters-mode)
 
